@@ -81,27 +81,27 @@ export default function Navbar() {
               )}
 
               <li className="space-x-2 text-black">
-                <a target="blank" href="https://www.facebook.com/share/1Fh9wUbxkL/">
+                <a target="blank" href="https://www.facebook.com/ahmed.zaki.sakr/">
                   <i className="fab fa-facebook-f cursor-pointer"></i>
                 </a>
                 <a
                   target="blank"
-                  href="https://www.linkedin.com/in/mariam-hany-306335291"
+                  href="https://www.linkedin.com/in/ahmed-zaki-579a86278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
                 >
                   <i className="fab fa-linkedin-in cursor-pointer"></i>
                 </a>
                 <a
                   target="blank"
-                  href="https://twitter.com/maryam279981"
+                  href="https://twitter.com/ahmedzaki79981"
                 >
                   <i className="fab fa-twitter cursor-pointer"></i>
                 </a>
-                <a target="blank" href="https://github.com/mariamhany7587">
+                <a target="blank" href="https://github.com/ahmedzaki28">
                   <i className="fab fa-github cursor-pointer"></i>
                 </a>
                 <a
                   target="blank"
-                  href="https://www.instagram.com/maryam_mehlab?igsh=cmxpYXZlZzFxaTB2"
+                  href="https://www.instagram.com/ahmed_sakr_x/"
                 >
                   <i className="fab fa-instagram cursor-pointer"></i>
                 </a>
