@@ -96,7 +96,7 @@ export default function Navbar() {
                 >
                   <i className="fab fa-twitter cursor-pointer"></i>
                 </a>
-                <a target="blank" href="https://github.com/ahmedzaki28">
+                <a target="blank" href="https://github.com/AhmedZAKI12">
                   <i className="fab fa-github cursor-pointer"></i>
                 </a>
                 <a
